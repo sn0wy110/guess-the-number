@@ -1,4 +1,4 @@
-# GTH Game
+# GTH | Guess The Number
 <!-- Badges -->
 <p>
   <a href="https://github.com/twentty-c/guess-the-number/graphs/contributors">
